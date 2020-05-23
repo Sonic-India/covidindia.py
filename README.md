@@ -13,7 +13,7 @@ The library http.client is inbuilt in Python
 
 While json — JSON encoder and decoder is also an inbuilt standard Python Library 
 
-Objectpath 0.6.1 you can get using:
+Objectpath 0.6.1 :
 
     pip install objectpath
   
