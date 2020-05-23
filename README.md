@@ -1,2 +1,2 @@
-# covidindia.py
-This python program informs you the statistic of your District(Only from India)
+# Covid India .py
+This Python Program Informs you the Statistic of your District(Only from India)
