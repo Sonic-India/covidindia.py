@@ -1,11 +1,12 @@
 # Covid India .py
 This Python Program Informs you the Statistic of your District(Only from India)
+The Api will be deprecated sooner. 
 
 #### Output :
 This is Output of Solapur,Maharashtra,India
 
 ![Output](https://github.com/Sonic-India/covidindia.py/raw/master/Capture.PNG)
-It uses API provided by https://www.covid19india.org/
+
 
 #### Requirements :
 
