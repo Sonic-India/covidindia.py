@@ -11,15 +11,9 @@ Requirements :
 
 Python 3
 
-IDE PyCharm(Optional) //You can use inbuilt IDLE also.
-
-The library http.client is inbuilt in Python
-
-While json — JSON encoder and decoder is also an inbuilt standard Python Library 
-
 Objectpath 0.6.1 :
 
-    pip install objectpath
+## pip install objectpath
   
 ### Current State : Maharashtra(MH)
 ### Current City : Solapur
